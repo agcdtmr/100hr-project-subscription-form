@@ -6,7 +6,7 @@ Check out this ongoing subscriptin page project [here](https://agcdtmr.github.io
 
 ## Learnings:
 - How to use form's action attribute
-- Played around the contrast of dark and like color
+- Played around the contrast of dark and light colors
 - How to use a html form with button coupled to it
 - How to apply required on form
 - How to center the content
