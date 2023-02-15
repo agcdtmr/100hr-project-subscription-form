@@ -2,7 +2,9 @@
 
 These 100 hour projects are part of the freelance work as Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
 
-Check out this ongoing subscription form project [here](https://agcdtmr.github.io/100hr-project-subscription-form/)
+Find this ongoing subscription form project [here](https://agcdtmr.github.io/100hr-project-subscription-form/)
+
+Check my other [100hr projects](https://github.com/agcdtmr/100hr-project-others).
 
 ## Learnings:
 - How to use form's action attribute
